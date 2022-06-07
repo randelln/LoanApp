@@ -11,7 +11,7 @@
 		26772F01D243FCE61E0CAD5490A852AD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		46179DCA6B0BC3EE3EF631EB77080A2B /* Pods-LoanMod_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0F59132516E712E667B92506433CFCD2 /* Pods-LoanMod_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		80F2268B51A5AC28BE315C4E43D97833 /* Pods-LoanMod_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 725607B86B9A4CD625B4F993EDA97588 /* Pods-LoanMod_Tests-dummy.m */; };
-		946AB0B425252C31E40244DF0B535784 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15A7FD428F5B9A4349450D513B0D389B /* ReplaceMe.swift */; };
+		946AB0B425252C31E40244DF0B535784 /* Apply.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15A7FD428F5B9A4349450D513B0D389B /* Apply.swift */; };
 		9D945363E9F1C2F86046A95EFFCE3158 /* LoanMod-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C37FF19266AE88C0E78FF588B75E1027 /* LoanMod-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9E00F77D0139F2FBCF2185E8C2A6C038 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		A951BB7971184E04811582B84427A7FF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
@@ -39,15 +39,15 @@
 /* Begin PBXFileReference section */
 		0796A9FA8FC5C01DABD6ADED7F1B1049 /* Pods-LoanMod_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LoanMod_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		0F59132516E712E667B92506433CFCD2 /* Pods-LoanMod_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LoanMod_Example-umbrella.h"; sourceTree = "<group>"; };
-		15A7FD428F5B9A4349450D513B0D389B /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = LoanMod/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
+		15A7FD428F5B9A4349450D513B0D389B /* Apply.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Apply.swift; path = LoanMod/Classes/Apply.swift; sourceTree = "<group>"; };
 		202B15EA550045455549AF951A17E914 /* LoanMod-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LoanMod-prefix.pch"; sourceTree = "<group>"; };
 		23ECF2103C755C9FC3A589E4C1919811 /* Pods-LoanMod_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LoanMod_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		3183E5A9E46574F1E0B6558A46FFEF5F /* LoanMod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LoanMod-dummy.m"; sourceTree = "<group>"; };
-		437A310C539E02E40F8BBE9AE785EE19 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		437A310C539E02E40F8BBE9AE785EE19 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		50F592A8039A933F1469251EC6707A71 /* Pods-LoanMod_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-LoanMod_Example"; path = Pods_LoanMod_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		523CC6AAF6B5BA0E03A62084B1A9EFA7 /* LoanMod.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LoanMod.release.xcconfig; sourceTree = "<group>"; };
 		57FEFCF948ADD899C652FE49BC343564 /* Pods-LoanMod_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LoanMod_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		5DF738CEAE19DCE3C462EECC06AC3B4A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		5DF738CEAE19DCE3C462EECC06AC3B4A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		717D640F7A2A08AD17A5D57670EC5332 /* Pods-LoanMod_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LoanMod_Example-frameworks.sh"; sourceTree = "<group>"; };
 		725607B86B9A4CD625B4F993EDA97588 /* Pods-LoanMod_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LoanMod_Tests-dummy.m"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -56,12 +56,12 @@
 		7A0C2035A84630DB0A7D3811753DC58D /* LoanMod */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = LoanMod; path = LoanMod.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D139A6FD1C3570026476870C5A0B949 /* Pods-LoanMod_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LoanMod_Tests-Info.plist"; sourceTree = "<group>"; };
 		7D5CD3C089272E4B32489A7812000D56 /* Pods-LoanMod_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LoanMod_Example-dummy.m"; sourceTree = "<group>"; };
-		7E3AB77AD54F2F90809218E0E6CA1EAC /* LoanMod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = LoanMod.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		7E3AB77AD54F2F90809218E0E6CA1EAC /* LoanMod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = LoanMod.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		86CDBB978A53920056B1122FF081F3EC /* Pods-LoanMod_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LoanMod_Example.modulemap"; sourceTree = "<group>"; };
 		9667BC9AAA7C4FBEA9C25274664A5818 /* Pods-LoanMod_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LoanMod_Tests-umbrella.h"; sourceTree = "<group>"; };
 		9685ED247DCD3AB5D3E2A40354B134AB /* LoanMod.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LoanMod.debug.xcconfig; sourceTree = "<group>"; };
 		99DFE7D767E7A7072AB77A9672AF1BF4 /* LoanMod-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LoanMod-Info.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A2518004F56B6BCBC62660D9F36F9C08 /* Pods-LoanMod_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LoanMod_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		BD2124544C3547B622F46003C466A3E5 /* Pods-LoanMod_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-LoanMod_Tests"; path = Pods_LoanMod_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C173F9C4BA50318830B4685597CCBB69 /* Pods-LoanMod_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LoanMod_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -103,7 +103,7 @@
 		35D9774E51B59665B445AD6EDAA8EBE6 /* LoanMod */ = {
 			isa = PBXGroup;
 			children = (
-				15A7FD428F5B9A4349450D513B0D389B /* ReplaceMe.swift */,
+				15A7FD428F5B9A4349450D513B0D389B /* Apply.swift */,
 				7D036FD043F3E9789CBC6809B73BA7B4 /* Pod */,
 				D5E7172404934CE820DEED79BE241883 /* Support Files */,
 			);
@@ -376,7 +376,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				25A25A46468FBDB3D28C536E9D24CD77 /* LoanMod-dummy.m in Sources */,
-				946AB0B425252C31E40244DF0B535784 /* ReplaceMe.swift in Sources */,
+				946AB0B425252C31E40244DF0B535784 /* Apply.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -686,8 +686,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
