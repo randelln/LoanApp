@@ -1,0 +1,6 @@
+framework module LoanMod {
+  umbrella header "LoanMod-umbrella.h"
+
+  export *
+  module * { export * }
+}

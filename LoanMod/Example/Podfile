@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LoanMod_Example' do
+  pod 'LoanMod', :path => '../'
+
+  target 'LoanMod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

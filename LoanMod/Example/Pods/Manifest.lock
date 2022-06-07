@@ -1,0 +1,16 @@
+PODS:
+  - LoanMod (0.1.0)
+
+DEPENDENCIES:
+  - LoanMod (from `../`)
+
+EXTERNAL SOURCES:
+  LoanMod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LoanMod: 897d5b08d03f9be9515ef4b0d7d256b4daa0dad1
+
+PODFILE CHECKSUM: 7e6edfab688f880929a19759a9b53ae69c06f97a
+
+COCOAPODS: 1.11.3

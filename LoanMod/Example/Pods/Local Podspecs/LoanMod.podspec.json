@@ -1,0 +1,22 @@
+{
+  "name": "LoanMod",
+  "version": "0.1.0",
+  "summary": "A short description of LoanMod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Randell Naidoo/LoanMod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Randell Naidoo": "EA244339T1@standardbank.onmicrosoft.com"
+  },
+  "source": {
+    "git": "https://github.com/Randell Naidoo/LoanMod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LoanMod/Classes/**/*"
+}
