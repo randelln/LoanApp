@@ -4,4 +4,4 @@
 
 // This is to test versioning with 'pre' suffix
 
-//Now testing pre1
+// Testing 1.0.0-pre.1
