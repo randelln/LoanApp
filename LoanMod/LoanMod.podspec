@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LoanMod'
-  s.version          = '1.0.0-pre.2'
+  s.version          = '1.0.0-pre.3'
   s.summary          = 'This is a loan application module.'
 
 # This description is used to generate tags and improve search results.
